@@ -4,6 +4,11 @@
   "description": "tools for procloud",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "repository": {
+    "url": "https://github.com/wxj123654/proutils.git",
+    "type": "git",
+    "directory": "src"
+  },
   "files": [
     "lib/"
   ],
